@@ -1,3 +1,1 @@
-# Colaboration
-
-Test text, Git is awesome!
+Colaboration
